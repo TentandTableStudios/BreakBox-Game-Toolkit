@@ -1,0 +1,9 @@
+BreakBox is a game utility toolkit developed for educational, debugging, and enhancing offline single-player use only.
+
+❗ This tool is not intended for use in online or multiplayer environments.
+
+❗ We do not condone cheating in online games or any use that violates a game's Terms of Service or End-User License Agreement (EULA).
+
+❗ The developers of BreakBox are not responsible for misuse of this tool, damage to game files, game bans, or violations of platform policies.
+
+By using this software, you agree that you are solely responsible for your actions and compliance with the applicable laws and agreements related to the games you use it with.
