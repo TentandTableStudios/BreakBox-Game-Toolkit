@@ -6,6 +6,7 @@ THIS PROGRAM IS FOR EDUCATIONAL PURPOSES ONLY!
 USE THIS AT YOUR OWN RISK! 
 I CREATED THIS PROJECT TO USE FOR PERSONAL USE BUT DECIDED TO RELEASE IT. 
 I AM NOT RESPONSIBLE FOR YOUR OR ANBODYS' ACTIONS!
+ The authors do not condone cheating in online games or violating game terms of service.
 
 ![Logo](assets/logo.png)
 
