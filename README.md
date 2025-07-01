@@ -41,7 +41,7 @@ I AM NOT RESPONSIBLE FOR YOUR OR ANBODYS' ACTIONS!
 
 ### Requirements
 
-- Python 3.9+
+- Python 3.9+ - https://www.python.org/downloads/
 - Windows 10/11
 
 ### Dependencies
