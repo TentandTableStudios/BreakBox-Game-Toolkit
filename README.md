@@ -1,12 +1,11 @@
 # 🎮 BreakBox Game Toolkit
 
-BreakBox is a modular, feature-rich game editing and debugging toolkit built for Windows. Designed with gamers, modders, and reverse engineers in mind, it provides everything from memory scanning and save editing to mod injection and live game manipulation all from a clean GUI powered by ttkbootstrap.
+BreakBox is a modular, feature-rich game editing and debugging toolkit built for Windows. Designed with gamers, modders, and reverse engineers in mind, it provides everything from memory scanning and save editing to mod injection and live game manipulation — all from a clean GUI powered by ttkbootstrap.
 
 THIS PROGRAM IS FOR EDUCATIONAL PURPOSES ONLY!
 USE THIS AT YOUR OWN RISK! 
 I CREATED THIS PROJECT TO USE FOR PERSONAL USE BUT DECIDED TO RELEASE IT. 
-I AM NOT RESPONSIBLE FOR YOUR OR ANYBODYS' ACTIONS!
- The authors do not condone cheating in online games or violating game terms of service.
+I AM NOT RESPONSIBLE FOR YOUR OR ANBODYS' ACTIONS!
 
 ![Logo](assets/logo.png)
 
@@ -42,7 +41,7 @@ I AM NOT RESPONSIBLE FOR YOUR OR ANYBODYS' ACTIONS!
 
 ### Requirements
 
-- Python 3.9+ - https://www.python.org/downloads/
+- Python 3.9+
 - Windows 10/11
 
 ### Dependencies
