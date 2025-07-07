@@ -58,8 +58,8 @@ BreakBox provides advanced tools for PC single-player games: edit saves, manage 
 ## 📸 Screenshots
 
 ```md
-![Screenshot 1](assets/main-ui.png)
-![Screenshot 2](assets/main-ui2.png)
+![main-ui1](assets/main-ui.png)
+![main-ui2](assets/main-ui2.png)
 
 ⚡ Quickstart
 Install Python 3.9+ (recommend python.org)
