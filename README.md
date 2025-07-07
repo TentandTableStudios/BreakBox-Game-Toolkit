@@ -1,6 +1,6 @@
 # 🎮 BreakBox Game Toolkit
 
-BreakBox is a modular, feature-rich game editing and debugging toolkit built for Windows. Designed with gamers, modders, and reverse engineers in mind, it provides everything from memory scanning and save editing to mod injection and live game manipulation — all from a clean GUI powered by ttkbootstrap.
+BreakBox is a modular, feature-rich game editing and debugging toolkit built for Windows. Designed with gamers, modders, and reverse engineers in mind, it provides everything from memory scanning and save editing to mod injection and live game manipulation all from a clean GUI powered by ttkbootstrap.
 
 THIS PROGRAM IS FOR EDUCATIONAL PURPOSES ONLY!
 USE THIS AT YOUR OWN RISK! 
